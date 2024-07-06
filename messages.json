@@ -1,0 +1,93 @@
+{
+    "en": {
+        "enter_playlist_url": "Enter the YouTube playlist URL: ",
+        "enter_video_url": "Enter the YouTube video URL: ",
+        "enter_output_path": "Enter the destination folder (relative or absolute path): ",
+        "downloading_playlist": "Downloading playlist: ",
+        "downloading_video": "Downloading video: ",
+        "number_of_videos": "Number of videos: ",
+        "download_completed": "Download completed: ",
+        "playlist_download_completed": "Playlist download completed.",
+        "error_occurred": "An error occurred: ",
+        "choose_operation_mode": "Choose operation mode ('P' for playlist, 'V' for video): ",
+        "invalid_choice": "Invalid choice. Please choose 'P' for playlist or 'V' for video."
+    },
+    "fr": {
+        "enter_playlist_url": "Entrez l'URL de la playlist YouTube : ",
+        "enter_video_url": "Entrez l'URL de la vidéo YouTube : ",
+        "enter_output_path": "Entrez le dossier de destination (chemin relatif ou absolu) : ",
+        "downloading_playlist": "Téléchargement de la playlist : ",
+        "downloading_video": "Téléchargement de la vidéo : ",
+        "number_of_videos": "Nombre de vidéos : ",
+        "download_completed": "Téléchargement terminé : ",
+        "playlist_download_completed": "Téléchargement de la playlist terminé.",
+        "error_occurred": "Une erreur est survenue : ",
+        "choose_operation_mode": "Choisissez le mode d'opération ('P' pour playlist, 'V' pour vidéo) : ",
+        "invalid_choice": "Choix invalide. Veuillez choisir 'P' pour playlist ou 'V' pour vidéo."
+    },
+    "es": {
+        "enter_playlist_url": "Ingrese la URL de la lista de reproducción de YouTube: ",
+        "enter_video_url": "Ingrese la URL del video de YouTube: ",
+        "enter_output_path": "Ingrese la carpeta de destino (ruta relativa o absoluta): ",
+        "downloading_playlist": "Descargando lista de reproducción: ",
+        "downloading_video": "Descargando video: ",
+        "number_of_videos": "Número de videos: ",
+        "download_completed": "Descarga completada: ",
+        "playlist_download_completed": "Descarga de lista de reproducción completada.",
+        "error_occurred": "Ocurrió un error: ",
+        "choose_operation_mode": "Seleccione el modo de operación ('P' para lista de reproducción, 'V' para video) : ",
+        "invalid_choice": "Opción no válida. Por favor, elija 'P' para lista de reproducción o 'V' para video."
+    },
+    "de": {
+        "enter_playlist_url": "Geben Sie die URL der YouTube-Playlist ein: ",
+        "enter_video_url": "Geben Sie die URL des YouTube-Videos ein: ",
+        "enter_output_path": "Geben Sie den Zielordner ein (relativer oder absoluter Pfad): ",
+        "downloading_playlist": "Playlist wird heruntergeladen: ",
+        "downloading_video": "Video wird heruntergeladen: ",
+        "number_of_videos": "Anzahl der Videos: ",
+        "download_completed": "Download abgeschlossen: ",
+        "playlist_download_completed": "Playlist-Download abgeschlossen.",
+        "error_occurred": "Ein Fehler ist aufgetreten: ",
+        "choose_operation_mode": "Wählen Sie den Betriebsmodus ('P' für Playlist, 'V' für Video) : ",
+        "invalid_choice": "Ungültige Auswahl. Bitte wählen Sie 'P' für Playlist oder 'V' für Video."
+    },
+    "zh": {
+        "enter_playlist_url": "输入YouTube播放列表的URL：",
+        "enter_video_url": "输入YouTube视频的URL：",
+        "enter_output_path": "输入目标文件夹（相对路径或绝对路径）：",
+        "downloading_playlist": "下载播放列表：",
+        "downloading_video": "下载视频：",
+        "number_of_videos": "视频数量：",
+        "download_completed": "下载完成：",
+        "playlist_download_completed": "播放列表下载完成。",
+        "error_occurred": "发生错误： ",
+        "choose_operation_mode": "选择操作模式（'P'表示播放列表，'V'表示视频）：",
+        "invalid_choice": "选择无效。请选择'P'表示播放列表或'V'表示视频。"
+    },
+    "ja": {
+        "enter_playlist_url": "YouTubeのプレイリストのURLを入力してください：",
+        "enter_video_url": "YouTubeのビデオのURLを入力してください：",
+        "enter_output_path": "宛先フォルダーを入力してください（相対パスまたは絶対パス）：",
+        "downloading_playlist": "プレイリストをダウンロード中：",
+        "downloading_video": "ビデオをダウンロード中：",
+        "number_of_videos": "ビデオの数：",
+        "download_completed": "ダウンロード完了：",
+        "playlist_download_completed": "プレイリストのダウンロードが完了しました。",
+        "error_occurred": "エラーが発生しました：",
+        "choose_operation_mode": "操作モードを選択してください（'P'はプレイリスト、'V'はビデオです）：",
+        "invalid_choice": "無効な選択です。プレイリストには 'P'、ビデオには 'V' を選択してください。"
+    },
+    "ru": {
+        "enter_playlist_url": "Введите URL плейлиста YouTube: ",
+        "enter_video_url": "Введите URL видео YouTube: ",
+        "enter_output_path": "Введите папку назначения (относительный или абсолютный путь): ",
+        "downloading_playlist": "Загрузка плейлиста: ",
+        "downloading_video": "Загрузка видео: ",
+        "number_of_videos": "Количество видео: ",
+        "download_completed": "Загрузка завершена: ",
+        "playlist_download_completed": "Загрузка плейлиста завершена.",
+        "error_occurred": "Произошла ошибка: ",
+        "choose_operation_mode": "Выберите режим работы ('P' для плейлиста, 'V' для видео) : ",
+        "invalid_choice": "Неверный выбор. Пожалуйста, выберите 'P' для плейлиста или 'V' для видео."
+    }
+}
